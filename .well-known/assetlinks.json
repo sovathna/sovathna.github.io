@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.sovathna.android.applinkssample",
+    "sha256_cert_fingerprints":
+    ["E8:33:D6:4B:C4:2D:61:FD:C2:BF:BE:02:E3:3E:F3:39:24:6C:B7:22:CA:A0:76:71:9B:3D:88:E0:77:60:5F:76"]
+  }
+}]
