@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.sovathna.khmerdictionary",
+    "sha256_cert_fingerprints":
+    ["2F:B6:41:EB:B0:BD:B0:E4:FB:0D:07:DD:19:C2:F2:C7:83:FC:B8:19:F0:AA:AF:FC:A1:35:15:35:E5:4F:7A:8C"]
+  }
+}]
