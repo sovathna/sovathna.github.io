@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset='utf-8'>
+    <meta name='viewport' content='width=device-width'>
+    <title>Extension Documentation</title>
+    <style>
+        body {
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+            padding: 1em;
+        }
+
+        pre {
+            border-radius: 16px;
+            background: #CFD8DC;
+            padding: 16px;
+            font-size: 16px;
+        }
+
+        .tmp {
+            border-radius: 6px;
+            background: #CFD8DC;
+            padding: 4px;
+            font-size: 16px;
+        }
+
+        .tmp1 {
+            border-radius: 6px;
+            background: #E53935;
+            padding: 4px;
+            font-size: 12px;
+        }
+
+        .tmp2 {
+            border-radius: 6px;
+            background: #E0E0E0;
+            padding: 4px;
+            font-size: 12px;
+        }
+
+        @media screen and (min-width: 600px) {
+            body {
+                width: 60%;
+                margin: 0 auto;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Extension Documentation</h1>
+    <strong>Last updated: January 14, 2025</strong>
+
+    <h2>Overview</h2>
+    <p>Extension allows you to gain more access to content metadata within the app.
+        Similar to other well-known addons in apps like Stremio, these extensions expand your access to diverse content
+        sources, enriching your entertainment experience with curated movies, tv shows, and more, seamlessly integrated
+        for easy exploration.</p>
+
+
+    <h2>Extension JSON Format</h2>
+    <p>Each extension requires a JSON file that contains specific metadata fields. Below is an example format:</p>
+
+    <pre><code>{
+    "name": "Example Extension",
+    "url": "https://example.com/?media_id={id}",
+    "tv_url": "https://example.com/?media_id={id}&season={season}&episode={episode}",
+    "logo": "https://exmaple.com/logo.jpg"
+}</code></pre>
+    <strong>Field Descriptions</strong>
+    <p><code class="tmp">name</code> : The name of the extension or streaming source. <span class="tmp1">Required</span>
+    </p>
+    <p><code class="tmp">url</code> : The URL format for embedding a movie. <span class="tmp1">Required</span></p>
+    <ul>
+        <li>
+            <p><code class="tmp">{id}</code> : The movie id of a streaming source. <span class="tmp1">Required</span>
+            </p>
+        </li>
+    </ul>
+    <p><code class="tmp">tv_url</code> : The URL format for embedding a TV show. <span class="tmp1">Required</span></p>
+    <ul>
+        <li>
+            <p><code class="tmp">{id}</code> : The TV show id of a streaming source. <span class="tmp1">Required</span>
+            </p>
+        </li>
+        <li>
+            <p><code class="tmp">{season}</code> : The TV show season number. <span class="tmp1">Required</span>
+            </p>
+        </li>
+        <li>
+            <p><code class="tmp">{episode}</code> : The TV show episode number. <span class="tmp1">Required</span>
+            </p>
+        </li>
+    </ul>
+    <p><code class="tmp">logo</code> : The logo URL of the extension or streaming source. <span
+            class="tmp2">Optional</span></p>
+
+    <strong>
+        <p>*Note: The placeholder parameters of <code class="tmp">url</code> and <code class="tmp">tv_url</code> must
+            be an exact match including curly braces.</p>
+    </strong>
+
+    <h2>Extension File Format</h2>
+    <p>The Application supports either a <code class="tmp">.json</code> or <code class="tmp">.txt</code> file format.
+    </p>
+
+    <h2>Contact Us</h2>
+    <p>If you have any questions regarding the extension, please contact the Service Provider via email at
+        ggdev100@gmail.com.</p>
+    <hr>
+    <p><a href="https://sovathna.github.io/chillflix/privacy/" target="_blank" rel="noopener noreferrer">Privacy
+            Policy</a></p>
+    <p><a href="https://sovathna.github.io/chillflix/terms/" target="_blank" rel="noopener noreferrer">Terms &amp;
+            Conditions</a></p>
+    <p>&#169; 2025 Chill Flix</p>
+
+</body>
+
+</html>
