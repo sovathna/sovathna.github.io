@@ -1504,4 +1504,11 @@ smartclip.net, 15458, RESELLER
 video.unrulymedia.com, 2148207460, RESELLER  
 opera.com, pub7275292332480, RESELLER, 55a0c5fd61378de3  
 freewheel.tv, 1137745, RESELLER  
-improvedigital.com, 1532, RESELLER  
+improvedigital.com, 1532, RESELLER
+eliteappgrade.com, 514554, reseller
+mindtos.com, mt45eb5f865ce39e1b, reseller
+mman.kr, 32102, reseller
+freewheel.tv, 1599106, reseller
+spinx.biz, 1373698866, reseller
+freewheel.tv, 1599109, reseller
+mobismarter.com, 3294, reseller
