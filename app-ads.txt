@@ -3,10 +3,12 @@ google.com, pub-5840133796162212, DIRECT, f08c47fec0942fa0
 facebook.com, 291399469330797, RESELLER, c3e20eee3f780d68
 
 applovin.com, 4d9f2eb4bae5dbd91b2447c4ead10811, DIRECT
+adyoulike.com, 2d578cf695c89ec2ba707280319d2020, RESELLER
 algorix.co, 60532, RESELLER, 5b394c12fea27a1d
 contextweb.com , 562615, RESELLER, 89ff185a4c4e857c
 gamaigroup.com, 423056, RESELLER
 improvedigital.com, 2451, RESELLER
+indexexchange.com, 211341, RESELLER, 50b1c356f2c5c8fc
 lijit.com, 516975, RESELLER, fafdf38b16bf6b2b
 loopme.com, 11303, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11424, RESELLER, 6c8d5f95897a5a3b
@@ -32,7 +34,6 @@ sharethrough.com, NNB0Zl76, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, UbYLkrys, RESELLER, d53b998a7bd4ecd2
 smartadserver.com, 3817, RESELLER
 sonobi.com, d2b13d1c36, RESELLER, d1a215d9eb5aee9e
-thebrave.io, 1234633, RESELLER, c25b2154543746ac
 video.unrulymedia.com, 169764768, RESELLER
 video.unrulymedia.com, 322585001, RESELLER
 xandr.com, 13799, RESELLER
