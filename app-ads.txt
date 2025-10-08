@@ -7,7 +7,7 @@ adyoulike.com, 2d578cf695c89ec2ba707280319d2020, RESELLER
 algorix.co, 60532, RESELLER, 5b394c12fea27a1d
 contextweb.com , 562615, RESELLER, 89ff185a4c4e857c
 gamaigroup.com, 423056, RESELLER
-improvedigital.com, 2451, RESELLER
+improvedigital.com, 2602, RESELLER
 indexexchange.com, 211341, RESELLER, 50b1c356f2c5c8fc
 lijit.com, 516975, RESELLER, fafdf38b16bf6b2b
 loopme.com, 11303, RESELLER, 6c8d5f95897a5a3b
@@ -17,6 +17,7 @@ media.net, 8CUD06Z68, RESELLER
 openx.com, 540785403, RESELLER, 6a698e2ec38604c6
 openx.com, 559798512, RESELLER, 6a698e2ec38604c6
 opera.com, pub6538436382208, RESELLER, 55a0c5fd61378de3
+outbrain.com, 0073fa86cff719c752763d2c3ee52c8f00, RESELLER
 pubmatic.com, 158154, RESELLER, 5d62403b186f2ace
 pubmatic.com, 158862, RESELLER, 5d62403b186f2ace
 pubmatic.com, 159509, RESELLER, 5d62403b186f2ace
@@ -33,7 +34,6 @@ sharethrough.com, bXzzb1bR, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, NNB0Zl76, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, UbYLkrys, RESELLER, d53b998a7bd4ecd2
 smartadserver.com, 3817, RESELLER
-sonobi.com, d2b13d1c36, RESELLER, d1a215d9eb5aee9e
 video.unrulymedia.com, 169764768, RESELLER
 video.unrulymedia.com, 322585001, RESELLER
 xandr.com, 13799, RESELLER
@@ -145,6 +145,25 @@ adingenious.com, 75036, RESELLER
 carbonatix.com, 141073554, RESELLER
 iion.io, 10171, RESELLER, 013a29748465dc57
 sonobi.com, 45dd948092, RESELLER, d1a215d9eb5aee9e
+bidmachine.io, 100, reseller
+smaato.com, 1100059052, reseller, 07bcf65f187117b4
+e-volution.ai, ajxf6r378a9m6catvk, reseller
+smaato.com, 1100053415, reseller, 07bcf65f187117b4
+improvedigital.com, 2607, reseller
+improvedigital.com, 2602, reseller
+onlinemediasolutions.com, 29556, reseller, b3868b187e4b6402
+appnexus.com, 15670, reseller
+tradplusad.com, ba761e9c72f279da, reseller
+yellowhead.com, 67b9c0a1d2e345, reseller
+axonix.com, 57716, reseller
+bluexad.ai, 1947919201712738304, reseller
+myfeature.tv, n1fnlxqufcvdx3gt6mjn, reseller
+mobupps.com, c74d97b01eae257e44aa9d5bade97baf33094, reseller
+risecodes.com, 686ea3dfe2c0d50001e494e2, reseller
+apester.com, 2212, reseller
+gitberry.com, 335100012, reseller
+bidmachine.io, 101, reseller
+loopme.com, 15665, reseller, 6c8d5f95897a5a3b
 
 chartboost.com, 5980009f43150f76fb1d3cc6, DIRECT
 appnexus.com, 10005, RESELLER, f5ab79cb980f11d1
